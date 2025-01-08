@@ -1,9 +1,6 @@
 {
   "AuthPage": {
-    "SignInPage": {
-    }
+    "SignInPage": {}
   },
-  "HomePage": {
-
-  }
+  "HomePage": {}
 }
